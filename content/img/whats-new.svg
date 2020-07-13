@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-    <g fill="none" fill-rule="evenodd" stroke-width="2" transform="rotate(-45 32.328 22.207)">
-        <path stroke="#6B7588" d="M5 15.693v6.614l30 11.25V4.443L5 15.693z"/>
-        <path stroke="#69F" stroke-linecap="round" stroke-linejoin="round" d="M44.95 23.95a7 7 0 0 0 0-9.9M47.778 26.778c4.296-4.296 4.296-11.26 0-15.556"/>
-        <rect width="4" height="36" x="35" y="1" stroke="#6B7588" rx="2"/>
-        <rect width="4" height="12" x="1" y="13" stroke="#6B7588" rx="2"/>
-        <path stroke="#6B7588" d="M28.76 30.292l-.716 1.867a4 4 0 0 1-5.168 2.3l-9.336-3.583a4 4 0 0 1-2.3-5.168l.716-1.867"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="35" viewBox="0 0 51 35">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M1-7h50v50H1z"/>
+        <path fill="#3F53D9" d="M15.738.843c0 7.405-.417 16.616 0 21.311 3.07.18 33.91.18 34.132 0 .2-.162.2-7.265 0-21.31H15.738z"/>
+        <path fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7.127 6.205c.032 4.431.032 11.835 0 22.212l36-.766V18.46 6.205h-36z"/>
+        <path fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1.766 12.332c.185 7.405-.232 16.616 0 21.446 3.255.045 34.095.045 34.467 0 .1-.252.1-7.4 0-21.446H1.766z"/>
+        <path stroke="#3F53D9" stroke-linecap="round" stroke-width="2" d="M19 17.31v11.107M24.553 22.864H13.447"/>
     </g>
 </svg>

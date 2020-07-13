@@ -9,7 +9,11 @@ howTo:
   - export-stickers
   - save-as-PDF
 helpTopics:
-  - title: How to export and print boards
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033159-how-to-export-and-print-boards-
-  - title: How to create presentations and use Frames
-    url: https://help.realtimeboard.com/support/solutions/articles/11000031784-frames
+  - title: How to Export and Print Boards
+    url: https://help.miro.com/hc/en-us/articles/360017572754-How-to-Export-and-Print-Boards
+  - title: Embedding Boards into Websites
+    url: https://help.miro.com/hc/en-us/articles/360017731533-Embedding-Boards-into-Websites
+  - title: Board Backup
+    url: https://help.miro.com/hc/en-us/articles/360017572774-Board-Backup
+  - title: Presentation Mode
+    url: https://help.miro.com/hc/en-us/articles/360017731073-Presentation-Mode

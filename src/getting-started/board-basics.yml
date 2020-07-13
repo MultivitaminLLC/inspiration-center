@@ -10,31 +10,29 @@ howTo:
   - bulk-add-stickers
   - links
   - insert
-guides:
-  - getting-started
 shortcuts:
   - SHORTCUTS
-interfaceExplained:
-  - TIPS
 tutorials:
   - FULL
 videos:
-  # Tools and features guide 
-  - https://www.youtube.com/watch?v=BD1c3XqT4lY  
-  # Getting Started with RealtimeBoard 
-  - https://www.youtube.com/watch?v=9f_6l6YDOso
-  # RealtimeBoard Visual Templates Guide
-  - https://www.youtube.com/watch?v=a0T3JU-DLr0
+  # Getting Started with Miro: Board Basics
+  - https://vimeo.com/330084954
+  # Getting Started with Miro: Collaboration
+  - https://vimeo.com/338245997
+  # Getting Started with Miro: Navigation
+  - https://vimeo.com/318988801
 helpTopics:
-  - title: How to use the whiteboard toolkit
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033145-how-to-use-the-whiteboard-toolkit
-  - title: Uploading files to boards
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033144-uploading-files-to-boards
-  - title: 10 ways to add content
-    url: https://help.realtimeboard.com/support/solutions/articles/11000008836-10-ways-to-add-content-
-  - title: Arranging board content
-    url: https://help.realtimeboard.com/support/solutions/articles/11000008838-arranging-board-content
-  - title: Creating a new board
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033141-creating-a-new-board
-  - title: Internal and external linking 
-    url: https://help.realtimeboard.com/support/solutions/articles/11000021648-internal-and-external-linking
+  - title: Creating a New Board
+    url: https://help.miro.com/hc/en-us/articles/360017571974-Creating-a-New-Board
+  - title: Navigation Mode
+    url: https://help.miro.com/hc/en-us/articles/360017731053-Navigation-Mode
+  - title: Shortcuts and Hotkeys
+    url: https://help.miro.com/hc/en-us/articles/360017731033-Shortcuts-and-Hotkeys
+  - title: Toolbar
+    url: https://help.miro.com/hc/en-us/articles/360017730553-Toolbar
+  - title: Mind Map
+    url: https://help.miro.com/hc/en-us/articles/360017730753-Mind-Map
+  - title: Cards
+    url: https://help.miro.com/hc/en-us/articles/360020911193-Cards
+  - title: User Story Mapping
+    url: https://help.miro.com/hc/en-us/articles/360020712554-User-Story-Mapping

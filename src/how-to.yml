@@ -61,7 +61,7 @@
   title: How to share the board
   file: gif/share_board.gif
   preview: gif/share-board.png
-  description: To invite collaborators to the board, click on the <b>Share</b> button in the top-right corner, enter the email addresses, set the access rights and click <b>Send</b>. You can also share the board with people outside of RealtimeBoard using a shareable link, or make any board available with a whole team in one click.
+  description: To invite collaborators to the board, click on the <b>Share</b> button in the top-right corner, enter the email addresses, set the access rights and click <b>Send</b>. You can also share the board with people outside of Miro using a shareable link, or make any board available with a whole team in one click.
   tags:
     - share
     - invite
@@ -188,99 +188,165 @@
   description: Any sticker from a user story map, backlog or brainstorm session can become a task just in a few clicks. Open sticker and click Jira logo - that's it! Once you turn a sticker into a card the issue will be available in Jira.
   tags:
     - jira
-- id: Retro-step-five-1
-  title: Add ideas to Continue column
-  file: gif/Retro-step-five-1.gif
-  preview: gif/Retro-step-five-1.gif
-  description: Point out successful activities that the team should keep doing. <br> <b>Tip:</b> Vote with emoji to identify popular ideas.
+- id: Retro-step-2
+  title: Invite participants
+  file: video/frameworks/retrospective/2_invite_participants.mp4
+  preview: video/frameworks/retrospective/2_invite_participants.mp4
+  description: Invite your team to the board to run a retrospective.
   tags: []
-- id: Retro-step-three-1
+- id: Retro-step-3
   title: Add ideas to Start column
-  file: gif/Retro-step-three-1.gif
-  preview: gif/Retro-step-three-1.gif
+  file: video/frameworks/retrospective/3_add_ideas_to_start_column.mp4
+  preview: video/frameworks/retrospective/3_add_ideas_to_start_column.mp4
   description: Share your thoughts on how to start improving the  workflow. <br> <b>Tip:</b> Use different sticker colors or tags for each user.
   tags: []
+- id: Retro-step-4
+  title: Add ideas to Stop column
+  file: video/frameworks/retrospective/4_add_ideas_to_stop_column.mp4
+  preview: video/frameworks/retrospective/4_add_ideas_to_stop_column.mp4
+  description: Suggest what your team should stop doing. <br> <b>Tip:</b> You can use bulk mode to speed up the ideation process.
+  tags: []
+- id: Retro-step-5
+  title: Add ideas to Continue column
+  file: video/frameworks/retrospective/5_add_ideas_to_continue_column.mp4
+  preview: video/frameworks/retrospective/5_add_ideas_to_continue_column.mp4
+  description: Point out successful activities that the team should keep doing. <br> <b>Tip:</b> Vote with emoji to identify popular ideas.
+  tags: []
+- id: Retro-step-6
+  title: Turn ideas into Actions
+  file: video/frameworks/retrospective/6_turn_ideas_into_actions.mp4
+  preview: video/frameworks/retrospective/6_turn_ideas_into_actions.mp4
+  description: Find out popular ideas that your team generate and create to do list. <br> <b> Tip:</b> Turn stickies into JIRA issues right on the board to speed up your work. 
+  tags: []
+- id: Kanban-step-2
+  title: Invite participants
+  file: video/frameworks/kanban/2_invite_participants.mp4
+  preview: video/frameworks/kanban/2_invite_participants.mp4
+  description: Invite your team to the board to plan tasks and track progress.
+  tags: []
 - id: Kanban-step-3
-  title: Customize your workflow
-  file: gif/Kanban-step-3.gif
-  preview: gif/Kanban-step-3.gif
-  description: Change block names if you have other team roles in your project.  <br> <b>Tip:</b> Double click to add text or new widgets.
+  title: Easily customize your Kanban board
+  file: video/interactive-tutorial/kanban/1_customize_board.mp4
+  preview: video/interactive-tutorial/kanban/1_customize_board.mp4
+  description: Create new and rename existing columns to customize Kanban board to your team workflow.
   tags: []
 - id: Kanban-step-4
-  title: Create to-do list
-  file: gif/Kanban-step-4.gif
-  preview: gif/Kanban-step-4.gif
-  description: Add tasks that you have in your backlog. <br> <b>Tip:</b> Use bulk mode to speed up the process.
+  title: Manage your team work with swimlanes
+  file: video/interactive-tutorial/kanban/2_manage_team.mp4
+  preview: video/interactive-tutorial/kanban/2_manage_team.mp4
+  description: Add, rename, move up or down and delete horizontal swimlanes, using the intuitive drop-down menu.
   tags: []
 - id: Kanban-step-5
-  title: Distribute tasks
-  file: gif/Kanban-step-5.gif
-  preview: gif/Kanban-step-5.gif
-  description: Take advantage of sticker colors and tags to mark different assignees. <br> <b>Tip:</b> Use emoji to estimate the task complexity.
+  title: Use cards to add info about tasks
+  file: video/interactive-tutorial/kanban/3_use_cards.mp4
+  preview: video/interactive-tutorial/kanban/3_use_cards.mp4
+  description: Create new cards or drag existing ones (incl. Jira cards) to the Kanban board. Expand cards to add details such as due dates and assignees.
   tags: []
 - id: Kanban-step-6
-  title: Reflect your progress
-  file: gif/Kanban-step-6.gif
-  preview: gif/Kanban-step-6.gif
-  description: Move stickers to track the progress like on a regular whiteboard. Set work in progress limit. <br><b>Tip:</b> Hold Shift to select multiple objects.
+  title: Explore more tools
+  file: video/interactive-tutorial/kanban/4_explore_more_tools.mp4
+  preview: video/interactive-tutorial/kanban/4_explore_more_tools.mp4
+  description: Use Kanban and other tools from the toolbar to visualize and share your ideas more effectively.
   tags: []
 - id: Kanban-step-7
   title: Discuss issues with your team
-  file: gif/Kanban-step-7.gif
-  preview: gif/Kanban-step-7.gif
+  file: video/frameworks/kanban/7_discuss_issues_with_your_team.mp4
+  preview: video/frameworks/kanban/7_discuss_issues_with_your_team.mp4
   description: Add comments and ask questions to discuss tasks. <br> <b>Tip:</b> Use @mentions to make your teammate put attention to the comment.
   tags: []
 - id: Kanban-step-8
   title: Bonus tip for Jira users 
-  file: gif/Kanban-step-8.gif
-  preview: gif/Kanban-step-8.gif
+  file: video/frameworks/kanban/8_bonus_tip_for_jira_users.mp4
+  preview: video/frameworks/kanban/8_bonus_tip_for_jira_users.mp4
   description: Using JIRA? Turn stickers into JIRA issues right on the board to speed up your work.
+  tags: []
+- id: USM-step-2
+  title: Invite your team
+  file: video/frameworks/usm/2_invite_your_team_to_collaborate.mp4
+  preview: video/frameworks/usm/2_invite_your_team_to_collaborate.mp4
+  description: Invite your team to the board to create the User Story Map together.
   tags: []
 - id: USM-step-3
   title: Identify your user persona
-  file: gif/USM-step-3.gif
-  preview: gif/USM-step-3.gif
-  description: Describe your user persona above the user story map. <br> <b>Tip:</b> Double click to add text on the canvas.
+  file: video/frameworks/usm/3_identify_your_persona.mp4
+  preview: video/frameworks/usm/3_identify_your_persona.mp4
+  description: Who is the target audience for your product and what is the problem your product solves for customers.
   tags: []
 - id: USM-step-4
-  title: Create user activities
-  file: gif/USM-step-4.gif
-  preview: gif/USM-step-4.gif
-  description: Write down the user activities. <br> <b>Tip:</b> You can choose another sticky color in the context menu.
+  title: Describe step-by-step user tasks
+  file: video/frameworks/usm/4_describe_user_tasks.mp4
+  preview: video/frameworks/usm/4_describe_user_tasks.mp4
+  description: That your persona needs to accomplish to get something done. Use a template "As a [persona] I want to [user task] so I can [final user goal]." Add as many tasks as you need with our flexible framework.
   tags: []
 - id: USM-step-5
-  title: Add user tasks
-  file: gif/USM-step-5.gif
-  preview: gif/USM-step-5.gif
-  description: Express your thoughts on persona tasks using stickies below the user activities. <br> <b>Tip:</b> Check the Demo boards with the ready-made templates.
+  title: Group user tasks by goals or activities
+  file: video/frameworks/usm/5_group_user_tasks_by_activities.mp4
+  preview: video/frameworks/usm/5_group_user_tasks_by_activities.mp4
+  description: To have a strategic view of your development process.
   tags: []
 - id: USM-step-6
-  title: Point out user stories
-  file: gif/USM-step-6.gif
-  preview: gif/USM-step-6.gif
-  description: Add user stories below user tasks. <br> <b>Tip:</b> Use tags to add assignees and emojis to estimate the task complexity.
+  title: Add user stories below each user task
+  file: video/frameworks/usm/6_add_user_stories.mp4
+  preview: video/frameworks/usm/6_add_user_stories.mp4
+  description: These will be your prioritized feature backlog for the product development.
   tags: []
 - id: USM-step-7
-  title: Prioritize the stories
-  file: gif/USM-step-7.gif
-  preview: gif/USM-step-7.gif
-  description: Select the stories you can accomplish for Release 1. <br> Put the other stories below in Release 2 and 3. <br> <b>Tip:</b> Hold Shift to select multiple objects.
+  title: Prioritize the stories for a sprint
+  file: video/frameworks/usm/7_prioritize_stories.mp4
+  preview: video/frameworks/usm/7_prioritize_stories.mp4
+  description: Discuss workload with your team and define a minimum viable product for the first sprint.
+  tags: []
+- id: USM-step-8
+  title: "Bonus tip: convert stories into tasks"
+  file: video/frameworks/usm/8_convert_to_jira.mp4
+  preview: video/frameworks/usm/8_convert_to_jira.mp4
+  description: Get ready for the sprint by converting Miro Cards into Jira tasks.
+  tags: []
+- id: MM-step-2
+  title: Invite your team
+  file: video/frameworks/mindmap/2_mind_map_framework_invite_your_team.mp4
+  preview: video/frameworks/mindmap/2_mind_map_framework_invite_your_team.mp4
+  description: Invite your team to work on Mind Map together.
+  tags: []
+- id: MM-step-3
+  title: Use simple shortcuts
+  file: video/interactive-tutorial/mindmap/build-mind-map-with-shortcuts.mp4
+  preview: video/interactive-tutorial/mindmap/build-mind-map-with-shortcuts.mp4
+  description: You can add a column by pressing <span class="interactive-tutorial__selected-text">Enter ↵</span>. To split the theme to the next level, use <span class="interactive-tutorial__selected-text">Tab ⇥</span>.
+  tags: []
+- id: MM-step-4
+  title: Organize your Mind Map
+  file: video/interactive-tutorial/mindmap/rearrange-nodess.mp4
+  preview: video/interactive-tutorial/mindmap/rearrange-nodess.mp4
+  description: Make changes anytime. Drag and drop your nodes to wherever you want by using <span class="interactive-tutorial__selected-text">Drag + Cmd/Ctrl</span>.
+  tags: []
+- id: MM-step-5
+  title: Auto align nodes
+  file: video/interactive-tutorial/mindmap/align-child-notes.mp4
+  preview: video/interactive-tutorial/mindmap/align-child-notes.mp4
+  description: Focus on what’s really important during the ideation process. Align nodes with just one click in the toolbar.
+  tags: []
+- id: MM-step-6
+  title: Change color and style
+  file: video/interactive-tutorial/mindmap/change-colors.mp4
+  preview: video/interactive-tutorial/mindmap/change-colors.mp4
+  description: Choose the color for parent nodes to differ topics, or make your map thin black and angular style.
+  tags: []
+- id: MM-step-7
+  title: Discover navigation
+  file: video/interactive-tutorial/mindmap/navigation.mp4
+  preview: video/interactive-tutorial/mindmap/navigation.mp4
+  description: Zoom in/out help to make the most of unlimited space. Navigate on the board using your touchpad or mouse.
+  tags: []
+- id: MM-step-8
+  title: Explore more tools
+  file: video/interactive-tutorial/mindmap/use-other-tools-from-toolbar.mp4
+  preview: video/interactive-tutorial/mindmap/use-other-tools-from-toolbar.mp4
+  description: Use Mind Map and other tools from the toolbar to visualize and share your ideas more effectively.
   tags: []
 - id: Convert-sticky-note-to-a-card
   title: Bonus tip for Jira users
   file: gif/Convert-sticky-note-to-a-card.gif
   preview: gif/Convert-sticky-note-to-a-card.gif
   description: Using JIRA? Turn stickers into JIRA issues right on the board to speed up your work.
-  tags: []
-- id: Retro-step-4
-  title: Add ideas to Stop column
-  file: gif/Retro-step-4.gif
-  preview: gif/Retro-step-4.gif
-  description: Suggest what your team should stop doing. <br> <b>Tip:</b> You can use bulk mode to speed up the ideation process.
-  tags: []
-- id: Retro-step-6
-  title: Turn ideas into Actions
-  file: gif/Retro-step-6.gif
-  preview: gif/Retro-step-6.gif
-  description: Find out popular ideas that your team generate and create to do list. <br> <b> Tip:</b> Turn stickies into JIRA issues right on the board to speed up your work. 
   tags: []

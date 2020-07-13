@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="41" viewBox="0 0 50 41">
     <g fill="none" fill-rule="evenodd">
-        <path d="M0 0h50v50H0z"/>
-        <path stroke="#6B7588" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30 31H5V5h40v14"/>
-        <path stroke="#7CC576" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33 22h14v23H33z"/>
-        <path stroke="#6B7588" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 32v6M28 32v6M17 38h13"/>
-        <path stroke="#7CC576" stroke-linecap="round" stroke-width="2" d="M34 40h13M34 26h13"/>
-        <path stroke="#6B7588" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 25h25"/>
-        <path stroke="#69F" stroke-linecap="round" stroke-width="2" d="M21 13l2-2M27 19l2-2M20 20l10-10"/>
+        <path d="M0-4h50v50H0z"/>
+        <path fill="#FFF" stroke="#050038" stroke-width="2" d="M19.305 27.549h5.744v7.856h-5.744z"/>
+        <path fill="#FFF" stroke="#050038" stroke-width="2" d="M1 1.5h42.354v28.273H1z"/>
+        <path stroke="#050038" stroke-linecap="round" stroke-width="2" d="M10.56 36.053h22.938"/>
+        <g transform="translate(33.568 13.172)">
+            <rect width="13.489" height="25.457" x="1" y="1" fill="#FFF" stroke="#050038" stroke-width="2" rx="2"/>
+            <circle cx="7.84" cy="23.736" r="1.408" fill="#FF6575"/>
+            <path stroke="#050038" stroke-width="2" d="M0 21.104h14.503M0 4.576h14.503"/>
+        </g>
+        <path stroke="#FF6575" stroke-linecap="round" stroke-width="2" d="M6.336 17.146c2.861-3.308 6.683-7.553 8.962-6.086 3.007 1.936-.156 13.091 5.642 7.791 3.508-3.206 5.046-6.331 7.854-9.626 2.887-3.388 6.221-.984 7.087-.634"/>
     </g>
 </svg>

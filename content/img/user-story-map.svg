@@ -1,13 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-        <path stroke="#FBCF47" d="M6 11h8v8H6z"/>
-        <path stroke="#69F" d="M6 24h8v8H6z"/>
-        <path stroke="#EC8EAD" d="M21 11h8v8h-8z"/>
-        <path stroke="#7CC576" d="M21 24h8v8h-8z"/>
-        <path stroke="#69F" d="M36 11h8v8h-8z"/>
-        <path stroke="#FBCF47" d="M21 37h8v8h-8z"/>
-        <path stroke="#7CC576" d="M6 6h8"/>
-        <path stroke="#69F" d="M21 6h8"/>
-        <path stroke="#EC8EAD" d="M36 6h8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="48" viewBox="0 0 45 48">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-3-1h50v50H-3z"/>
+        <g stroke="#050038" stroke-linecap="round" stroke-width="2">
+            <path fill="#FFF" stroke-linejoin="round" d="M20.311 7.852l-.45 17.278c-4.159.415-7.302.622-9.43.622-2.129 0-5.272-.207-9.431-.622l.527-11.38V8.276c3.978.044 6.946.044 8.904 0 1.957-.044 5.25-.186 9.88-.424zM20.311 28.852l-.45 17.278c-4.159.415-7.302.622-9.43.622-2.129 0-5.272-.207-9.431-.622l.527-11.38v-5.474c3.978.044 6.946.044 8.904 0 1.957-.044 5.25-.186 9.88-.424z"/>
+            <path fill="#FFBFBF" stroke-linejoin="round" d="M43.311 6.852l-.45 17.278c-4.159.415-7.302.622-9.43.622-2.129 0-5.272-.207-9.431-.622l.527-11.38V7.276c3.978.044 6.946.044 8.904 0 1.957-.044 5.25-.186 9.88-.424z"/>
+            <path d="M2 1.5h16.45M26 1.5h16.45"/>
+        </g>
     </g>
 </svg>

@@ -26,7 +26,7 @@
     "gulp-param": "^1.0.3",
     "gulp-yaml": "^1.0.1",
     "keyword-extractor": "0.0.13",
-    "marked": "^0.3.6",
+    "marked": "^0.3.18",
     "merge-defaults": "^0.2.1",
     "merge2": "^1.2.0",
     "moment": "^2.17.1",

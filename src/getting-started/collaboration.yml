@@ -11,21 +11,15 @@ howTo:
   - resolve-comment
   - show-cursors
 helpTopics:
-  - title: Collaborate remotely like in one room
-    url: https://realtimeboard.com/features
-  - title: Sharing a board and inviting collaborators
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033152-sharing-a-board-and-inviting-collaborators
-  - title: Access rights and board ownership
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033153-access-rights-and-board-ownership
-  - title: Occasional License
-    url: https://help.realtimeboard.com/support/solutions/articles/11000064782-occasional-license
-  - title: Screen sharing
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033165-screen-sharing
-  - title: Voice and video chat
-    url: https://help.realtimeboard.com/support/solutions/articles/1000033164-voice-and-video-chat
+  - title: Sharing Boards and Inviting Collaborators
+    url: https://help.miro.com/hc/en-us/articles/360017730813-Sharing-Boards-and-Inviting-Collaborators
+  - title: Access Rights and Board Ownership
+    url: https://help.miro.com/hc/en-us/articles/360017572194-Access-Rights-and-Board-Ownership
   - title: Chat
-    url: https://help.realtimeboard.com/support/solutions/articles/11000022439-chat
-  - title: How to @mention someone on a board
-    url: https://help.realtimeboard.com/support/solutions/articles/11000003210-how-to-mention-someone-on-a-board
-  - title: Emoji reactions
-    url: https://help.realtimeboard.com/support/solutions/articles/11000012154-emoji-reactions
+    url: https://help.miro.com/hc/en-us/articles/360017572234-Chat
+  - title: Video Chat
+    url: https://help.miro.com/hc/en-us/articles/360017572214-Video-Chat
+  - title: Screen Sharing
+    url: https://help.miro.com/hc/en-us/articles/360017730853-Screen-Sharing
+  - title: '@Mentioning People on the Board'
+    url: https://help.miro.com/hc/en-us/articles/360017730893--Mentioning-People-on-the-Board
