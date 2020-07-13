@@ -1,16 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
-  <g fill="none" fill-rule="evenodd" transform="translate(-4 -4)">
-    <path d="M0 0h50v50H0z"/>
-    <path stroke="#69F" stroke-width="2" d="M17 9h5m19 4v9" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="25" cy="25" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="25" cy="9" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="25" cy="41" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="9" cy="25" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="9" cy="41" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="41" cy="25" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="41" cy="9" r="3" stroke="#69F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path stroke="#69F" stroke-width="2" d="M28 9h9m-9 16h9m-9 16h6M13 25h9m-9 16h9M9 28v9" stroke-linecap="round" stroke-linejoin="round"/>
-    <path stroke="#7CC576" stroke-width="2" d="M37 37l8 8m0-8l-8 8" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="9" cy="9" r="4" stroke="#EC8EAD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="40" viewBox="0 0 39 40">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1.5 1)">
+            <path stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28.125 3.125c-2.604 0-16.14-1.042-21.869 1.562-6.09 2.769-5.347 10.95.52 13.021 8.855 3.125 7.732 2.056 14.063 4.167 4.688 1.562 5.209 8.854.521 10.937-4.272 1.9-18.756 2.605-20.318 2.605"/>
+            <circle cx="34.581" cy="3.676" r="2.574" fill="#FF6575"/>
+            <circle cx="2.574" cy="11.193" r="2.574" fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <circle cx="14.099" cy="3.125" r="2.574" fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <circle cx="12.893" cy="19.271" r="2.574" fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <circle cx="12.893" cy="34.475" r="2.574" fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <circle cx="24.652" cy="27.083" r="2.574" fill="#FFF" stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path stroke="#050038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M26.048 0l4.166 3.125-4.166 3.125"/>
+            <g stroke="#FFD02F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M7.914 24.45l-4.783 4.782M3.131 24.45l4.783 4.782"/>
+            </g>
+            <g stroke="#FFD02F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M21.456 9.38l-4.783 4.783M16.673 9.38l4.783 4.783"/>
+            </g>
+        </g>
+        <path d="M-4.5-5h50v50h-50z"/>
+    </g>
 </svg>
