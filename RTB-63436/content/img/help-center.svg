@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="36px" viewBox="0 0 45 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 54</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-44.000000, -450.000000)">
+            <g id="Group-54" transform="translate(41.000000, 442.000000)">
+                <rect id="Rectangle-Copy-14" x="0" y="0" width="50" height="50"></rect>
+                <g id="Group-50-Copy" transform="translate(3.000000, 9.000000)">
+                    <path d="M0,3 C12.2262842,3.11343312 18.8055204,3.17014967 19.7377086,3.17014967 C20.6698968,3.17014967 21.575413,4.10264852 22.4542571,5.96764621 C23.670799,4.10264852 24.9064559,3.17014967 26.1612277,3.17014967 C27.4159996,3.17014967 33.6955904,3.22556377 45,3.33639195 L45,32.436232 C33.9954386,32.7720537 27.8879893,33.0257652 26.6776521,33.1973664 C24.8621463,33.4547684 25.5858644,35 23.0845284,35 C20.5831923,35 20.9791736,33.4909407 19.6731321,33.1973664 C18.8024378,33.0016502 12.2447271,32.7479387 0,32.436232 L0,3 Z" id="Path-70-Copy" fill="#FF6575"></path>
+                    <path d="M3,0.355154532 C10.3588879,0.0792738486 15.0103749,0.0792738486 16.954461,0.355154532 C18.898547,0.631035215 20.6958989,1.54617479 22.3465166,3.10057325 C23.4012116,1.74383348 25.170671,0.828693908 27.6548947,0.355154532 C30.1391184,-0.118384844 34.9208201,-0.118384844 42,0.355154532 L42,28.9132759 C34.7158773,28.1531687 29.9341755,28.1531687 27.6548947,28.9132759 C25.3756138,29.6733831 23.7805946,30.7022911 22.8698368,32 C22.358673,30.6254024 20.9732204,29.5964944 18.7134793,28.9132759 C16.4537381,28.2300574 11.2159117,28.3401006 3,29.2434056 L3,0.355154532 Z" id="Path-70" stroke="#050038" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+                    <circle id="Oval" fill="#FF6575" cx="33" cy="8" r="2"></circle>
+                    <polyline id="Path-72" stroke="#FF6575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="30 13 33 13 33 21"></polyline>
+                    <line x1="29" y1="21.5" x2="37" y2="21.5" id="Path-74" stroke="#FF6575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="22.5" y1="3" x2="22.9245283" y2="32" id="Path" stroke="#050038" stroke-width="2"></line>
+                    <line x1="8" y1="11.5" x2="18" y2="11.5" id="Path-71-Copy" stroke="#050038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="8" y1="16.5" x2="18" y2="16.5" id="Path-71-Copy-2" stroke="#050038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="8" y1="6.5" x2="18" y2="6.5" id="Path-71" stroke="#050038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="8" y1="21.5" x2="18" y2="21.5" id="Path-71-Copy-3" stroke="#050038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
