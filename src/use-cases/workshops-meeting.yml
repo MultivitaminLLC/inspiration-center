@@ -1,0 +1,21 @@
+title: Workshops and meeting
+description: Inject your meetings with the energy, creativity, and momentum.
+image: img/meetings.svg
+thumbnail: img/meetings.svg
+order: 5
+videos:
+# Running online workshops
+- https://www.youtube.com/watch?v=7X-9NCf7wSU
+# How to become an expert remote facilitator
+- https://www.youtube.com/watch?v=xpLVDVZB-ak
+blogArticles:
+  # Using Miro to run seamless remote meetings & workshops
+  - https://miro.com/blog/using-miro-to-run-remote-meetings-workshops/
+  # Fun quarantine ice breaker questions for remote teams
+  - https://miro.com/blog/ice-breaker-questions-for-team/
+  # 6 templates to help you transition to (effective!) team meetings
+  - https://miro.com/blog/6-remote-meeting-templates/
+  # What I've learned from facilitating 100+ remote workshops
+  - https://miro.com/blog/100-remote-workshops-learnings/
+  # 10 things about remote facilitation we (AJ&Smart) wish we'd known sooner
+  - https://miro.com/blog/remote-facilitation/
