@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="nonzero" transform="translate(5 1)">
+        <path fill="#6B7588" d="M6 2a4 4 0 0 0-4 4v34a4 4 0 0 0 4 4h26a4 4 0 0 0 4-4V6a4 4 0 0 0-4-4H6zm0-2h26a6 6 0 0 1 6 6v34a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6z"/>
+        <rect width="4" height="4" x="17" y="38" fill="#6B7588" rx="2"/>
+        <g fill="#FBCF47" transform="translate(6 5)">
+            <path d="M11 23v2a2 2 0 1 0 4 0v-2h-4zm-1-2h6a1 1 0 0 1 1 1v3a4 4 0 1 1-8 0v-3a1 1 0 0 1 1-1z"/>
+            <rect width="2" height="3" x="12" rx="1"/>
+            <g transform="translate(0 12)">
+                <rect width="3" height="2" rx="1"/>
+                <rect width="3" height="2" x="23" rx="1"/>
+            </g>
+            <g transform="rotate(45 -1.485 7)">
+                <rect width="3" height="2" rx="1"/>
+                <rect width="3" height="2" x="23" rx="1"/>
+            </g>
+            <g transform="scale(-1 1) rotate(45 -14.485 -24.385)">
+                <rect width="3" height="2" rx="1"/>
+                <rect width="3" height="2" x="23" rx="1"/>
+            </g>
+            <path d="M14 19.71a1 1 0 0 1 .715-.958 6 6 0 1 0-3.43 0 1 1 0 0 1 .715.958V21h2v-1.29zM5 13a8 8 0 1 1 11 7.418V22a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-1.582A8.004 8.004 0 0 1 5 13z"/>
+            <path d="M13 8a1 1 0 0 1 0 2 3 3 0 0 0-3 3 1 1 0 0 1-2 0 5 5 0 0 1 5-5z"/>
+        </g>
+    </g>
+</svg>
