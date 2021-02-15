@@ -29,7 +29,7 @@
     "marked": "^0.3.18",
     "merge-defaults": "^0.2.1",
     "merge2": "^1.2.0",
-    "moment": "^2.17.1",
+    "moment": "^2.19.3",
     "request": "^2.79.0",
     "through2": "^2.0.3",
     "tv4": "^1.2.7"
